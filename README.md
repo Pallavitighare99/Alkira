@@ -1,3 +1,9 @@
+
+### `Run npm install command in main folder
+
+This will install all the necessary dependencies required to run
+the web application
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
